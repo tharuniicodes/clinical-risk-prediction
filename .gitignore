@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Model artifacts (optional: see note below)
+# Uncomment these if you don't want to push models
+# models/model.pkl
+# models/scaler.pkl
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
